@@ -1,2 +1,2 @@
-# todo-list
-ToDo List made in JS
+# To-do List coded in JS
+
